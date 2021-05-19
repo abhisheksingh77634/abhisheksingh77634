@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek Singh
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning and persuing Computer Science Engineering
-- 💞️ I’m looking for internship opportunity
+- � I’m looking for internship opportunity
 - 📫 Reach me at: abhisheksingh77634@gmail.com
